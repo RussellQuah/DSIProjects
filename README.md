@@ -10,16 +10,16 @@
 - Linear regression, feature engineering in Python
 
 
-#Project 3: Reddit API Classificaiton
+# Project 3: Reddit API Classificaiton
 - Webscraping reddit API, NLP to classify subreddits
 - Beautiful soup, Countvectorizer, TFidfvectorizer, SVM and Naive Bayes in Python
 
 
-#Project 4: West-Nile Virus Prediction
+# Project 4: West-Nile Virus Prediction
 - Predicting presence of West-Nile Virus in Chicago
-- Supervised machine learning in Python
+- Supervised classification machine learning in Python
 
 
-#Capstone: Trump, Tweets and the Stock Market
+# Capstone: Trump, Tweets and the Stock Market
 - NLP and sentiment analysis on Trump tweets to predict market movement
-- Feature engineering, Supervised Machine Learning and Neural Network in Python
+- Feature engineering, Supervised Classification Machine Learning and Neural Network in Python
